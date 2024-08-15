@@ -1,0 +1,38 @@
+body {
+    min-height: 100vh;
+    min-width: 100vh;
+    padding: 0px;
+    margin: 0px;
+}
+.link {
+    margin: -2px;
+}
+.button {
+    color: black;
+    background-color: white;
+    height: 100%;
+    border: none;
+    width: 100px;
+    margin: 0;
+}
+button:hover {
+    background-color: black;
+    color: white;
+}
+.banner {
+    height: 300px;
+    margin: 0px;
+    text-align: center;
+}
+.image {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+.menubar{
+    text-align: center;
+    margin:0;
+    width: auto;
+    height: 25px;
+    background-color: darkred;
+}
